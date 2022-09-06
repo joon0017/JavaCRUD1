@@ -4,3 +4,8 @@ Add Word example (screenshot)
 
 View Word example (screenshot)  
 ![View Word](screenshots/viewWordExecute.png?raw=true "View Word")
+
+
+
+Exit example (screenshot)  
+![Exit Programm](screenshots/exitExample.png?raw=true "Exit Programm")
