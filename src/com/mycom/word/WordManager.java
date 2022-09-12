@@ -55,7 +55,13 @@ public class WordManager {
                     wordCRUD.listAll();
                     break;
                 case 4:
-                    wordCRUD.addWord();
+                    wordCRUD.addItem();
+                    break;
+                case 5:
+                    wordCRUD.updateItem();
+                    break;
+                case 6:
+                    wordCRUD.deleteItem();
                     break;
                 default:
                     break;
