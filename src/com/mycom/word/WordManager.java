@@ -59,6 +59,9 @@ public class WordManager {
                 case 2:
                     wordCRUD.searchLevel();
                     break;
+                case 3:
+                    wordCRUD.searchWord();
+                    break;
                 case 4:
                     wordCRUD.addItem();
                     break;
