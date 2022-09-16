@@ -4,4 +4,4 @@
 3|grace|은혜, 우아한
 1|look|보다
 3|competition|경쟁
-2|mouse|쥐, 마우스
+2|mouse|쥐
